@@ -1,4 +1,4 @@
 # heartS
-## Augmented Reality Game, 95% based on coding, built with Spark AR Studio
+## Facebook Meta AR-game, built with Spark AR Studio, 95% code-based and 5% UI-based.
 
 https://www.facebook.com/danisvaliev001
