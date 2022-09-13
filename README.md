@@ -1,4 +1,4 @@
-# hearts is
+# hearts hero
 
 Facebook Meta AR-game, built with Spark AR Studio, 5% UI-based and 95% code-based.
 
